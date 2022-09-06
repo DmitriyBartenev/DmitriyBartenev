@@ -1,3 +1,13 @@
-<h2 align = "left">Hi there, I'm Dmitriy👋<br></h2>
-<h4>Computer science student of DSTU</h4>
-<p>I'm a JavaScript Developer working with React. Since last year focusing in Frontend. Looking forward to get my first job.</p>
+<h2>Hi there, I'm Dmitriy👋<br></h2>
+<img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+in+DSTU"></img>
+<p>I'm a JavaScript Frontend Developer working with React</p>
+<h2>Skills 🚀</h2>
+<div>
+  <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src = "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+</div>
