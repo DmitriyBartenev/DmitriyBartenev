@@ -1,3 +1,3 @@
-<h1 align = "center">Hi there, I'm <a href = "https://vk.com/6udd.dwyer">Dmitriy</a> 👋</h1>
+<h3 align = "center">Hi there, I'm Dmitriy👋</h3>
 
 
