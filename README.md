@@ -1,7 +1,6 @@
 <h2>Hi there, I'm Dmitriy👋<br></h2>
 <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student"></img>
 <h3>I'm a JavaScript Frontend Developer working with React</h3>
-<img src="https://i.gifer.com/Neh.gif"></img>
 <h2>Skills 🚀</h2>
 <div>
   <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
