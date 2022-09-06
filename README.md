@@ -11,4 +11,6 @@
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src = "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
+![affff](http://i.imgur.com/OUkLi.gif)
 
+![6sgo46](https://user-images.githubusercontent.com/92863224/188747805-6b91b315-1801-4376-a684-395bd61ba1af.gif)
