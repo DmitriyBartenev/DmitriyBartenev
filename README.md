@@ -1,8 +1,10 @@
-<h2>Hi there, I'm Dmitriy👋<br></h2>
-<img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student"></img>
-<h3>I'm a JavaScript Frontend Developer working with React</h3>
+<h2 align = "center">Hi there, I'm Dmitriy👋<br></h2>
 
-<img src = "https://user-images.githubusercontent.com/92863224/188747805-6b91b315-1801-4376-a684-395bd61ba1af.gif"/>
+<h3 align = "center">I'm a JavaScript Frontend Developer working with React</h3>
+<div align ="center">
+  <img src = "https://user-images.githubusercontent.com/92863224/188747805-6b91b315-1801-4376-a684-395bd61ba1af.gif"/>
+</div>
+
 
 <h2>Skills 🚀</h2>
 <div>
