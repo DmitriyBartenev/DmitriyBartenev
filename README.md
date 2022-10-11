@@ -1,4 +1,4 @@
-<h2 align = "center">Hi there, I'm Dmitriy👋<br></h2>
+<h2 align = "center">Hi there, I'm Dmitry👋<br></h2>
 
 <h3 align = "center">I'm a JavaScript Frontend Developer working with React</h3>
 <div align ="center">
