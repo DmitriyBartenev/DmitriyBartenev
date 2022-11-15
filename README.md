@@ -29,7 +29,7 @@
     <img src = "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
     <img src = "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   </div>
-  <h3>Other ✨</h3>
+  <h3>Other 👽</h3>
   <div>
     <img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   </div>
