@@ -5,7 +5,6 @@
   <img src = "https://user-images.githubusercontent.com/92863224/188747805-6b91b315-1801-4376-a684-395bd61ba1af.gif"/>
 </div>
 
-
 <h2 align ="center">Skills 🚀</h2>
 <div align ="center">
   <h3>Based 😵</h3>
