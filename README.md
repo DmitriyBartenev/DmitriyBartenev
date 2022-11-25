@@ -1,6 +1,6 @@
 <h2 align = "center">Hi there, I'm Dmitry👋<br></h2>
 
-<h3 align = "center">I'm a JavaScript Frontend Developer working with React</h3>
+<h3 align = "center">I'm a JavaScript Frontend Developer working with React.js</h3>
 <div align ="center">
   <img src = "https://user-images.githubusercontent.com/92863224/188747805-6b91b315-1801-4376-a684-395bd61ba1af.gif"/>
 </div>
