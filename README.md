@@ -3,6 +3,8 @@
 <h3 align = "center">I'm a JavaScript Frontend Developer working with React.js</h3>
 <div align ="center">
   <img src = "https://user-images.githubusercontent.com/92863224/188747805-6b91b315-1801-4376-a684-395bd61ba1af.gif"/>
+  
+  [![codewars](https://www.codewars.com/users/DmitriyBartenev/badges/small)](https://www.codewars.com/users/DmitriyBartenev) 
 </div>
 
 <h2 align ="center">Skills 🚀</h2>
@@ -33,4 +35,3 @@
     <img src = "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   </div>
 </div>
-
