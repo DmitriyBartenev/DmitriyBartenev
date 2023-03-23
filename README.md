@@ -1,7 +1,7 @@
 <h2 align = "center">Hello there 👻</h2>
 
 <h3 align="center">My name is Dmitriy and I am a JavaScript Developer with experience in React.js
-<h3 align="center">I have a passion for designing and building user-friendly and responsive web applications</h2></h3>
+<h3 align="center">I have a passion for designing and building user-friendly web applications</h2></h3>
 
 <h2 align ="center">Stack 📚</h2>
 <div align ="center">
