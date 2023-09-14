@@ -1,11 +1,11 @@
-<h2 align = "center">Hello there 👻</h2>
+<h2 align = "center">Hello there</h2>
 
-<h3 align="center">My name is Dmitriy and I am a JavaScript Developer with experience in React.js
-<h3 align="center">I have a passion for designing and building user-friendly web applications</h2></h3>
+<h3 align="center">I am a JavaScript Developer with experience in React.js
+<h3 align="center">I have a passion for designing and building user-friendly web applications</h3>
 
 <h2 align ="center">Stack 📚</h2>
 <div align ="center">
-  <h3>Frontend 😵</h3>
+  <h3>Frontend 👀</h3>
   <div>
     <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -16,7 +16,6 @@
   <div>
     <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-    <img src = "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
     <img src = "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     <img src = "https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>   
   </div>
@@ -35,7 +34,7 @@
     <img src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   </div>
-  <h3>Libraries 👀</h3>
+  <h3>Libraries 🧩</h3>
   <div>
     <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src = "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
